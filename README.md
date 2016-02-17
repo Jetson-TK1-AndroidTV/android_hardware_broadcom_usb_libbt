@@ -17,4 +17,4 @@ define BTM_DEF_LOCAL_NAME "Jetson TK1"
 // Bluetooth Low Power Mode is supported on BT4.0
 define HCILP_INCLUDED                 TRUE
 endif
-Also your kernel need UHID support.
+Also your kernel need UHID support
